@@ -10,8 +10,5 @@ class Program
         double Z = 4*X*X + 3*Y;
         Console.WriteLine($"X = {X}, Y = {Y}");
         Console.WriteLine($"The Value of Z is: {Z}");
-
-        //Part 2
-        
     }
 }
