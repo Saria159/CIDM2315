@@ -6,7 +6,6 @@ class Program
 {
     static void Main(string[] args)
     {
-        string connStr = "server=34.69.59.37;user=saria2;database=saria2;port=8080;password=saria2";
         MySqlConnection conn = new MySqlConnection(connStr);
         /*
         try
